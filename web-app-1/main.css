@@ -1,0 +1,26 @@
+:root {
+    --medium-blue: rgb(33, 121, 252);
+}
+
+* {
+    font-family: AvenirNextLTPro-Regular, sans-serif;
+}
+
+.cookie-banner {
+    background-color: var(--medium-blue);
+    padding: 0.8rem;
+    color: white;
+    text-align: center;
+}
+
+.banner-tag {
+    font-size: 0.8rem;
+    font-weight: 500;
+    background-color: white;
+    color: var(--medium-blue);
+    padding: 0.1rem;
+}
+
+.text-white {
+    color: white;
+}
